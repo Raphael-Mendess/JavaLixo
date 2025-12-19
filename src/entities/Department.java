@@ -64,8 +64,5 @@ public class Department implements Serializable {
         sb.append(", name=").append(name);
         sb.append('}');
         return sb.toString();
-    }
-
-    
-    
+    }   
 }
